@@ -2,7 +2,7 @@
 学习 Gitrpro 时写的几篇笔记（continuing……）<br>
  这个笔记是学习 [Gitpro 英文版](https://git-scm.com/book/en/v2) 时诞生的，并且基于[这位大佬的译文](https://bingohuang.gitbooks.io/progit2/content/)进行修改。
 ********
-一些学习练习和学习资源：
+一些学习练习和学习资源：<br>
 [Oh Shit, Git!?!](https://ohshitgit.com/)<br>
 [学习 Git 分支](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 *******
