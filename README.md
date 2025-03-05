@@ -40,4 +40,4 @@
 	
 - GitHub(待肝)*<br>
 
-<br>[Git 学习感想（干巴得中）.md](https://github.com/uonlraSnaey/Gitpro_notes/files/11677286/Git.md)
+<br>[Git 学习的建议.md](https://github.com/uonlraSnaey/Gitpro_notes/files/11677286/Git.md)
