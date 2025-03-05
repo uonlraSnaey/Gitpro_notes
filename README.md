@@ -1,4 +1,4 @@
-# Gitpro_notes
+# Gitpro_notes & translate
 学习 Gitrpro 时写的几篇笔记（continuing……）<br>
  这个笔记是学习 [Gitpro 英文版](https://git-scm.com/book/en/v2) 时诞生的，并且基于[这位大佬的译文](https://bingohuang.gitbooks.io/progit2/content/)进行修改。
 ********
